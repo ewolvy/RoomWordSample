@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoomWordSample</string>
+    <string name="action_settings">Opciones</string>
+    <string name="hint_word">Palabra…</string>
+    <string name="button_save">Guardar</string>
+    <string name="empty_not_saved">Palabra no guardada porque está vacía.</string>
+</resources>
